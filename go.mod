@@ -1,7 +1,6 @@
 module github.com/luiscarlosjo157/redSocial
 
-go 1.12
+go 1.17
 
-require(
-)
+
 
